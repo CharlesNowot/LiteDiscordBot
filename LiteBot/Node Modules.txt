@@ -1,0 +1,4 @@
+Node Modules
+- discord.js
+- nodemon
+- random-jokes-api
